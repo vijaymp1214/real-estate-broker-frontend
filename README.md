@@ -15,23 +15,35 @@ It showcases property listings, agents, offers, and other essential sections of 
 ✨ Blog / Articles Section
 ✨ Clean & Responsive Design
 
-🛠️ Technologies Used
-HTML5
-CSS3
-Font Awesome
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- Font Awesome
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
+
 real-estate-broker-frontend/
- ├── index.html
- ├── properties.html
- ├── about.html
- ├── services.html
- ├── contact.html
- ├── login.html
- ├── style.css
- ├── imgs/
- ├── assets/
- └── README.md
+│
+├── index.html
+├── properties.html
+├── about.html
+├── services.html
+├── contact.html
+├── login.html
+├── style.css
+│
+├── imgs/
+│   ├── luxury-villa.png
+│   ├── modern-apartment.png
+│   ├── family-house.png
+│   ├── villa-with-garden.png
+│   └── seaside-apartment.png
+│
+├── assets/
+│
+└── README.md
 📸 Preview
 ### 🏡 Home Page  
 ![Home Page](./assests/home.png)
