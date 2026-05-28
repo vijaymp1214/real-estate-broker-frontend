@@ -19,6 +19,7 @@ It showcases property listings, agents, offers, and other essential sections of 
 HTML5
 CSS3
 Font Awesome
+
 📂 Project Structure
 real-estate-broker-frontend/
  ├── index.html
